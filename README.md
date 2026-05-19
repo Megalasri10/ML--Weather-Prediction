@@ -17,11 +17,7 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 
 3.Find the slope m of the line of best fit using the formula.
 
-<img width="296" height="134" alt="Screenshot 2026-04-24 142329" src="https://github.com/user-attachments/assets/c84b8915-a172-4d3c-b25a-6c72aca3d759" />
-
 4. Compute the y -intercept of the line by using the formula:
-
-<img width="209" height="51" alt="Screenshot 2026-04-24 142402" src="https://github.com/user-attachments/assets/41200e24-f859-421e-89b0-948737a601a0" />
 
 5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
